@@ -1,7 +1,7 @@
 <h1 align="center">~ Hello there! I'm Ashraful Islam ~</h1>
 <img src="https://komarev.com/ghpvc/?username=ashrafulX&color=blue" alt="Profile Views" />
 
-I work in tech and enjoy building practical automations that simplify everyday tasks. I'm currently in my 11th semester studying **Computer Science and Engineering**. Besides tech, I'm also fairly invested in competitive programming and exploring direct, simple code implementations. In my free time, I enjoy reading books and playing chess.
+I work in tech and enjoy building practical automations that simplify everyday tasks. I'm currently in my 12th semester studying **Computer Science and Engineering**. Besides tech, I'm also fairly invested in competitive programming and exploring direct, simple code implementations. In my free time, I enjoy reading books and playing chess.
 
 ### 🧑‍💻 My Tech!
 
