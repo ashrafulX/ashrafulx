@@ -58,10 +58,10 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://YOUR-PORTFOLIO-URL">
+  <a href="https://ashraful.site">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=2196F3&logoColor=white&style=for-the-badge" height="35" alt="portfolio" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://linkedin.com/in/ashrafulx">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
   </a>
   <a href="mailto:ashrafulwho@gmail.com">
