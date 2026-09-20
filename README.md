@@ -23,6 +23,14 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="mysql" />
 </p>
 
+## 🌟 My Projects
+ 
+| 🎯 Project | 📝 Description | 💻 Tech Stack | 🔗 Links | ⭐ Status |
+|------------|----------------|---------------|----------|-----------|
+| **Dokanly** | E-commerce platform with a RESTful API backend. | Django REST Framework, React | [Live](https://dokanly.example.com) • [Code](https://github.com/ashrafulX/Dokanly) | In Progress |
+| **Vangari-Mama** | Location-based recyclables marketplace with real-time price negotiation, role-based dashboards, and automated commissions. | Django, JavaScript, Tailwind CSS | [Live](https://vangari-mama.onrender.com/) • [Code](https://github.com/ashrafulX/vangari-mama) | Completed |
+| **StockPilot** | Stock management backend API. | .NET, C# | [Live](https://stockpilot.example.com) • [Code](https://github.com/ashrafulX/StockPilot-server) | In Progress |
+| **Skill Match Platform** | Connects people based on their skills and enables collaboration. | Django, PostgreSQL | [Live](https://skill-match-and-collaboration-platform.onrender.com/) • [Code](https://github.com/ashrafulX/skill-match-and-collaboration-platform) | Completed |
 
 ### 🌱 Cool things that I explored in the past ~
 
