@@ -1,4 +1,4 @@
-<!-- <h1 align="center">~ Hello there! I'm Ashraful Islam ~</h1>
+ <h1 align="center">~ Hello there! I'm Ashraful Islam ~</h1>
 <img src="https://komarev.com/ghpvc/?username=ashrafulX&color=blue" alt="Profile Views" />
 
 I work in tech and enjoy building practical automations that simplify everyday tasks. I'm currently in my 12th semester studying **Computer Science and Engineering**. Besides tech, I'm also fairly invested in competitive programming and exploring direct, simple code implementations. In my free time, I enjoy reading books and playing chess.
@@ -40,9 +40,9 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 
 
 ---
-> ***I'm available via 📫 [email](ashrafulwho@gmail.com). ashrafulwho@gmail.com Feel free to hit me up if you feel like discussing new ideas (or even just random tech), collaborating or even grabbing a cup of coffee!*** -->
+> ***I'm available via 📫 [email](ashrafulwho@gmail.com). ashrafulwho@gmail.com Feel free to hit me up if you feel like discussing new ideas (or even just random tech), collaborating or even grabbing a cup of coffee!*** -
 
-
+<!--
 # <div align="center">👋 Hey there! I'm Ashraful Islam</div>
 
 <div align="center">
@@ -134,3 +134,4 @@ me.say_hi()
 > ***Feel free to hit me up to discuss new ideas, collaborate, or just grab a cup of coffee ☕***
 
 </div>
+->
