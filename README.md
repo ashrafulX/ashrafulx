@@ -32,6 +32,7 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 | **StockPilot** | Stock management backend API. | .NET, C# | [Live](https://stockpilot.example.com) • [Code](https://github.com/ashrafulX/StockPilot-server) | In Progress |
 | **Skill Match Platform** | Connects people based on their skills and enables collaboration. | Django, PostgreSQL | [Live](https://skill-match-and-collaboration-platform.onrender.com/) • [Code](https://github.com/ashrafulX/skill-match-and-collaboration-platform) | Completed |
 
+<!--
 ### 🌱 Cool things that I explored in the past ~
 
 * Building **Vangari-Mama**, a location-based recyclables marketplace with real-time price negotiation and Google Maps integration!
@@ -41,7 +42,7 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 * Competitive programming and solving algorithmic challenges using C++ on platforms like [Codeforces](https://codeforces.com/profile/iashraf) and [LeetCode](https://leetcode.com/u/ashrafulx/)!
 * Modern web styling and theme-switching logic using [Tailwind CSS](https://tailwindcss.com/)!
 * Exploring matrix algebra, eigenvalues, and characteristic equations!
-
+-->
 ### 🚀 Currently Building
 
 * **Dokaly** — An e-commerce platform currently under development using **Django REST Framework (DRF)** and **React**.
