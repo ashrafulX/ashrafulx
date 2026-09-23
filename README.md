@@ -10,17 +10,20 @@ I've worked on a bunch of projects over the years, tried out different roles and
 I was fortunate to experiment with these stuff (at least the ones off the top of my head that I could find fancy badges for)  ~
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="python" />
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="c/c++" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="c#" />
 <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="django" />
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".net" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="linux" />
+<img src="https://img.shields.io/badge/DRF-A30000?logo=django&logoColor=white" alt="drf" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="fastapi" />
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="react" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="git" />
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".net" />
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="postgres" />
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="mysql" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="git" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="docker" />
 </p>
 
 ## 🌟 My Projects
