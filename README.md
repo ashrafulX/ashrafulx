@@ -30,8 +30,8 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
  
 | 🎯 Project | 📝 Description | 💻 Tech Stack | 🔗 Links | ⭐ Status |
 |------------|----------------|---------------|----------|-----------|
-| **Dokanly** | E-commerce platform with a RESTful API backend. | Django REST Framework, React | [Live](https://dokanly.example.com) • [Code](https://github.com/ashrafulX/Dokanly) | In Progress |
-| **Vangari-Mama** | Location-based recyclables marketplace with real-time price negotiation, role-based dashboards, and automated commissions. | Django, JavaScript, Tailwind CSS | [Live](https://vangari-mama.onrender.com/) • [Code](https://github.com/ashrafulX/vangari-mama) | Completed |
+| **Dokanly** | E-commerce platform with a RESTful API backend. | Django REST Framework, React | [Live](https://dokanly-server.vercel.app/) • [Code](https://github.com/ashrafulX/Dokanly) | In Progress |
+| **Vangari-Mama** | Location-based recyclables marketplace with real-time price negotiation, role-based dashboards, and automated commissions. | Django, JavaScript, Tailwind CSS | [Live](https://vangarimama.vercel.app/) • [Code](https://github.com/ashrafulX/vangari-mama) | Completed |
 | **TikTok Clone** | Full-stack TikTok-style video sharing app built with Django, HTMX, and Django Channels — real-time chat, likes, comments, follows, and notifications. | Django, WebSocket | [Live](https://tiktok-clone-r9pl.onrender.com/) • [Code](https://github.com/ashrafulX/Tiktok-clone) | Completed |
 | **Skill Match Platform** | Connects people based on their skills and enables collaboration. | Django, PostgreSQL | [Live](https://skill-match-and-collaboration-platform.onrender.com/) • [Code](https://github.com/ashrafulX/skill-match-and-collaboration-platform) | Completed |
 
