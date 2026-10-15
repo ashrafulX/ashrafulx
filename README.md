@@ -1,3 +1,62 @@
+# Hi, I'm Ashraful Islam
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashrafulX&color=blue" alt="Profile Views" />
+</p>
+
+**Computer Science & Engineering Graduate | Full Stack Developer**
+
+I build practical web applications, REST APIs, and automation tools. My primary focus is backend development with Django and Django REST Framework, complemented by React and modern web technologies. I also enjoy competitive programming and solving algorithmic problems.
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
+</p>
+
+### Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Dokanly](https://github.com/ashrafulX/Dokanly) | E-commerce platform with a RESTful API | Django REST Framework, React |
+| [Vangari Mama](https://github.com/ashrafulX/vangari-mama) | Recyclables marketplace with price negotiation and automated commissions | Django, JavaScript, Tailwind CSS |
+| [TikTok Clone](https://github.com/ashrafulX/Tiktok-clone) | Video-sharing platform with real-time chat and notifications | Django, HTMX, Django Channels |
+| [Skill Match Platform](https://github.com/ashrafulX/skill-match-and-collaboration-platform) | Platform for skill-based connections and collaboration | Django, PostgreSQL |
+
+### Currently Building
+
+**Dokanly** — An e-commerce platform using Django REST Framework and React.
+
+### Connect With Me
+
+<p>
+  <a href="mailto:ashrafulwho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashrafulwho%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email Ashraful" />
+  </a>
+  <a href="https://github.com/ashrafulX">
+    <img src="https://img.shields.io/badge/GitHub-ashrafulX-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/ashrafulx/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+*Open to software development opportunities and collaboration.*
+
+<!--
  <h1 align="center">~ Hello there! I'm Ashraful Islam ~</h1>
 <img src="https://komarev.com/ghpvc/?username=ashrafulX&color=blue" alt="Profile Views" />
 
@@ -46,6 +105,7 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 * Modern web styling and theme-switching logic using [Tailwind CSS](https://tailwindcss.com/)!
 * Exploring matrix algebra, eigenvalues, and characteristic equations!
 -->
+<!--
 ### 🚀 Currently Building
 
 * **Dokaly** — An e-commerce platform currently under development using **Django REST Framework (DRF)** and **React**.
@@ -53,7 +113,7 @@ I was fortunate to experiment with these stuff (at least the ones off the top of
 
 ---
 > ***I'm available via 📫 [email](ashrafulwho@gmail.com). ashrafulwho@gmail.com Feel free to hit me up if you feel like discussing new ideas (or even just random tech), collaborating or even grabbing a cup of coffee!*** -
-
+-->
 <!--
 # <div align="center">👋 Hey there! I'm Ashraful Islam</div>
 
