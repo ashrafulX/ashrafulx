@@ -75,14 +75,13 @@ I build practical web applications, REST APIs, and automation tools. I primarily
 ### Currently Building
 
 **Dokanly** — An e-commerce platform built with Django REST Framework and React.
-
 ### Connect With Me
 
-<a href="mailto:ashrafulwho@gmail.com"><img src="https://cdn.simpleicons.org/gmail/555555" width="22" alt="Email" /></a>&nbsp;&nbsp;
-<a href="https://github.com/ashrafulX"><img src="https://cdn.simpleicons.org/github/555555" width="22" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/ashrafulx/"><img src="https://cdn.simpleicons.org/leetcode/555555" width="22" alt="LeetCode" /></a>
+<a href="mailto:ashrafulwho@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://github.com/ashrafulX"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="28" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/ashrafulx/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" alt="LeetCode" /></a>
 
-[**Email me**](mailto:ashrafulwho@gmail.com) · [GitHub](https://github.com/ashrafulX) · [LeetCode](https://leetcode.com/u/ashrafulx/)
+**Email:** [ashrafulwho@gmail.com](mailto:ashrafulwho@gmail.com) · **GitHub:** [ashrafulX](https://github.com/ashrafulX) · **LeetCode:** [ashrafulx](https://leetcode.com/u/ashrafulx/)
 
 *Open to software development opportunities and collaboration.*
 <!--
