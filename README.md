@@ -24,10 +24,9 @@ I build web applications, REST APIs, and backend systems using **Python, Django 
 
 ### Projects
 
-* **[Dokanly](https://github.com/ashrafulX/Dokanly)** — E-commerce platform with a RESTful API backend (`DRF`, `React`) · [API Docs](https://dokanly-server.vercel.app/swagger/)
+* **[Dokanly](https://github.com/ashrafulX/Dokanly)** — E-commerce platform with a RESTful API backend (`DRF`, `React`) · [Live](https://dokanly.vercel.app) [API Docs](https://dokanly-server.vercel.app/swagger/)
 * **[Vangari Mama](https://github.com/ashrafulX/vangari-mama)** — Location-based recyclables marketplace with price negotiation and role dashboards (`Django`, `JS`, `Tailwind`) · [Live](https://vangarimama.vercel.app/)
 * **[TikTok Clone](https://github.com/ashrafulX/Tiktok-clone)** — Social video platform with real-time chat and notifications (`Django`, `Channels`, `HTMX`) · [Live](https://tiktok-clone-r9pl.onrender.com/)
-* **[Skill Match](https://github.com/ashrafulX/skill-match-and-collaboration-platform)** — Skill-based networking and collaboration platform (`Django`, `PostgreSQL`) · [Live](https://skill-match-and-collaboration-platform.onrender.com/)
 
 ### Connect
 
