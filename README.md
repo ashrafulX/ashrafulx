@@ -25,7 +25,7 @@ I build web applications, REST APIs, and backend systems using **Python, Django 
 ### Achievements
 
 - **2nd Position** — Intra-University Programming Contest
-- **1,000+ Algorithmic Problems Solved** — Active problem solver across [Codeforces](https://codeforces.com/profile/iashraf), [LeetCode](https://leetcode.com/u/ashrafulx/), [CodeChef](https://www.codechef.com/users/iashraful), and various online judges
+- **1,000+ Algorithmic Problems Solved** — Active problem solver across  [LeetCode](https://leetcode.com/u/ashrafulx/), [Codeforces](https://codeforces.com/profile/iashraf),[CodeChef](https://www.codechef.com/users/iashraful), and various online judges
 
 ### Projects
 
