@@ -22,11 +22,18 @@ I build web applications, REST APIs, and backend systems using **Python, Django 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+### Achievements
+
+| Highlight | Details |
+| :--- | :--- |
+| **Competitive Programming** | Secured **2nd Position** in the Intra-University Programming Contest |
+| **Problem Solving** | Solved **1,000+ algorithmic problems** across [Codeforces](https://codeforces.com/profile/iashraf), [LeetCode](https://leetcode.com/u/ashrafulx/), CodeChef, and various online judges |
+
 ### Projects
 
-* **[Dokanly](https://github.com/ashrafulX/Dokanly)** — E-commerce platform with a RESTful API backend · [Live](https://dokanly.vercel.app) · [API Docs](https://dokanly-server.vercel.app/swagger/)
-* **[Vangari Mama](https://github.com/ashrafulX/vangari-mama)** — Location-based recyclables marketplace with price negotiation and role dashboards · [Live](https://vangarimama.vercel.app/)
-* **[TikTok Clone](https://github.com/ashrafulX/Tiktok-clone)** — Social video platform with real-time chat and notifications · [Live](https://tiktok-clone-five.vercel.app/)
+- **[Dokanly](https://github.com/ashrafulX/Dokanly)** — E-commerce platform with a RESTful API backend · [Live](https://dokanly.vercel.app) · [API Docs](https://dokanly-server.vercel.app/swagger/)
+- **[Vangari Mama](https://github.com/ashrafulX/vangari-mama)** — Location-based recyclables marketplace with price negotiation and role dashboards · [Live](https://vangarimama.vercel.app/)
+- **[TikTok Clone](https://github.com/ashrafulX/Tiktok-clone)** — Social video platform with real-time chat and notifications · [Live](https://tiktok-clone-five.vercel.app/)
 
 ### Connect
 
