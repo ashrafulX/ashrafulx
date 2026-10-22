@@ -33,5 +33,6 @@ I build web applications, REST APIs, and backend systems using **Python, Django 
 <p>
   <a href="mailto:ashrafulwho@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ashrafulX"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="24" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ashrafulx/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="24" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/ashrafulx/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="24" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/iashraf"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="24" alt="Codeforces" /></a>
 </p>
