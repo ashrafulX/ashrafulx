@@ -30,8 +30,9 @@ I build web applications, REST APIs, and backend systems using **Python, Django 
 
 ### Connect
 
+**Portfolio:** [ashrafulx.vercel.app](https://ashrafulx.vercel.app)
+
 <p>
-  <a href="https://ashrafulx.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="24" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ashrafulwho@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ashrafulX"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="24" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ashrafulx/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="24" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;
