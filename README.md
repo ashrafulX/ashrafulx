@@ -1,237 +1,38 @@
-# Hi, I'm Ashraful Islam
+# Ashraful Islam
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashrafulX&color=blue" alt="Profile Views" />
-</p>
+**Full Stack Developer · CSE Graduate**
 
-**CSE Graduate | Full Stack Developer**
-
-I build practical web applications, REST APIs, and automation tools. I primarily work with **Python, Django REST Framework, and React**, with an interest in backend engineering, system design, and problem-solving.
+I build web applications, REST APIs, and backend systems using **Python, Django REST Framework, and React**, with a focus on clean architecture and problem-solving.
 
 ### Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/DRF-A30000?logo=django&logoColor=white" alt="DRF" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### Featured Projects
+### Projects
 
-<details>
-  <summary><strong>Dokanly</strong> — E-commerce platform</summary>
+* **[Dokanly](https://github.com/ashrafulX/Dokanly)** — E-commerce platform with a RESTful API backend (`DRF`, `React`) · [API Docs](https://dokanly-server.vercel.app/swagger/)
+* **[Vangari Mama](https://github.com/ashrafulX/vangari-mama)** — Location-based recyclables marketplace with price negotiation and role dashboards (`Django`, `JS`, `Tailwind`) · [Live](https://vangarimama.vercel.app/)
+* **[TikTok Clone](https://github.com/ashrafulX/Tiktok-clone)** — Social video platform with real-time chat and notifications (`Django`, `Channels`, `HTMX`) · [Live](https://tiktok-clone-r9pl.onrender.com/)
+* **[Skill Match](https://github.com/ashrafulX/skill-match-and-collaboration-platform)** — Skill-based networking and collaboration platform (`Django`, `PostgreSQL`) · [Live](https://skill-match-and-collaboration-platform.onrender.com/)
 
-  E-commerce platform with a RESTful API backend.
-
-  **Stack:** Django REST Framework, React
-
-  [Source Code](https://github.com/ashrafulX/Dokanly) · [API Documentation](https://dokanly-server.vercel.app/swagger/)
-
-</details>
-
-<details>
-  <summary><strong>Vangari Mama</strong> — Recyclables marketplace</summary>
-
-  Location-based marketplace featuring price negotiation, role-based dashboards, and automated commissions.
-
-  **Stack:** Django, JavaScript, Tailwind CSS
-
-  [Live Demo](https://vangarimama.vercel.app/) · [Source Code](https://github.com/ashrafulX/vangari-mama)
-
-</details>
-
-<details>
-  <summary><strong>TikTok Clone</strong> — Video-sharing platform</summary>
-
-  Full-stack application featuring real-time chat, likes, comments, follows, and notifications.
-
-  **Stack:** Django, HTMX, Django Channels
-
-  [Live Demo](https://tiktok-clone-r9pl.onrender.com/) · [Source Code](https://github.com/ashrafulX/Tiktok-clone)
-
-</details>
-
-<details>
-  <summary><strong>Skill Match Platform</strong> — Collaboration platform</summary>
-
-  Connects people through their skills and enables collaboration.
-
-  **Stack:** Django, PostgreSQL
-
-  [Live Demo](https://skill-match-and-collaboration-platform.onrender.com/) · [Source Code](https://github.com/ashrafulX/skill-match-and-collaboration-platform)
-
-</details>
-
-### Currently Building
-
-**Dokanly** — An e-commerce platform built with Django REST Framework and React.
-### Connect With Me
-
-<a href="mailto:ashrafulwho@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Email" /></a>&nbsp;&nbsp;
-<a href="https://github.com/ashrafulX"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="28" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/ashrafulx/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" alt="LeetCode" /></a>
-
-**Email:** [ashrafulwho@gmail.com](mailto:ashrafulwho@gmail.com) · **GitHub:** [ashrafulX](https://github.com/ashrafulX) · **LeetCode:** [ashrafulx](https://leetcode.com/u/ashrafulx/)
-
-*Open to software development opportunities and collaboration.*
-<!--
- <h1 align="center">~ Hello there! I'm Ashraful Islam ~</h1>
-<img src="https://komarev.com/ghpvc/?username=ashrafulX&color=blue" alt="Profile Views" />
-
-I work in tech and enjoy building practical automations that simplify everyday tasks. I'm currently in my 12th semester studying **Computer Science and Engineering**. Besides tech, I'm also fairly invested in competitive programming and exploring direct, simple code implementations. In my free time, I enjoy reading books and playing chess.
-
-### 🧑‍💻 My Tech!
-
-I've worked on a bunch of projects over the years, tried out different roles and discovered that I prefer working as a Full Stack Developer. I've always loved diving deep, tinkering and building things so working in tech has always been a great opportunity for me to channel that passion.   
-
-I was fortunate to experiment with these stuff (at least the ones off the top of my head that I could find fancy badges for)  ~
+### Connect
 
 <p>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="c/c++" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="javascript" />
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="c#" />
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="django" />
-<img src="https://img.shields.io/badge/DRF-A30000?logo=django&logoColor=white" alt="drf" />
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="fastapi" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="react" />
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".net" />
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="postgres" />
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="mysql" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="linux" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="docker" />
+  <a href="mailto:ashrafulwho@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ashrafulX"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="24" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ashrafulx/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="24" alt="LeetCode" /></a>
 </p>
-
-## 🌟 My Projects
- 
-| 🎯 Project | 📝 Description | 💻 Tech Stack | 🔗 Links | ⭐ Status |
-|------------|----------------|---------------|----------|-----------|
-| **Dokanly** | E-commerce platform with a RESTful API backend. | Django REST Framework, React | [Live](https://dokanly-server.vercel.app/swagger/) • [Code](https://github.com/ashrafulX/Dokanly) | In Progress |
-| **Vangari-Mama** | Location-based recyclables marketplace with real-time price negotiation, role-based dashboards, and automated commissions. | Django, JavaScript, Tailwind CSS | [Live](https://vangarimama.vercel.app/) • [Code](https://github.com/ashrafulX/vangari-mama) | Completed |
-| **TikTok Clone** | Full-stack TikTok-style video sharing app built with Django, HTMX, and Django Channels — real-time chat, likes, comments, follows, and notifications. | Django, WebSocket | [Live](https://tiktok-clone-r9pl.onrender.com/) • [Code](https://github.com/ashrafulX/Tiktok-clone) | Completed |
-| **Skill Match Platform** | Connects people based on their skills and enables collaboration. | Django, PostgreSQL | [Live](https://skill-match-and-collaboration-platform.onrender.com/) • [Code](https://github.com/ashrafulX/skill-match-and-collaboration-platform) | Completed |
-
-<!--
-### 🌱 Cool things that I explored in the past ~
-
-* Building **Vangari-Mama**, a location-based recyclables marketplace with real-time price negotiation and Google Maps integration!
-* Building a **Skill Match & Collaboration Platform** for connecting people based on their skills and enabling collaboration. [Live Demo](https://skill-match-and-collaboration-platform.onrender.com/)
-* Full-stack development utilizing [React.js](https://react.dev/) and [Django](https://www.djangoproject.com/) frameworks!
-* Designing and implementing RESTful APIs!
-* Competitive programming and solving algorithmic challenges using C++ on platforms like [Codeforces](https://codeforces.com/profile/iashraf) and [LeetCode](https://leetcode.com/u/ashrafulx/)!
-* Modern web styling and theme-switching logic using [Tailwind CSS](https://tailwindcss.com/)!
-* Exploring matrix algebra, eigenvalues, and characteristic equations!
--->
-<!--
-### 🚀 Currently Building
-
-* **Dokaly** — An e-commerce platform currently under development using **Django REST Framework (DRF)** and **React**.
-
-
----
-> ***I'm available via 📫 [email](ashrafulwho@gmail.com). ashrafulwho@gmail.com Feel free to hit me up if you feel like discussing new ideas (or even just random tech), collaborating or even grabbing a cup of coffee!*** -
--->
-<!--
-# <div align="center">👋 Hey there! I'm Ashraful Islam</div>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code:wght@700&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Competitive+Programmer+(C%2B%2B);Building+Practical+Automations;Always+Learning+New+Tech!)
-
-<img src="https://komarev.com/ghpvc/?username=ashrafulX&color=blue" alt="Profile Views" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://ashraful.site">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=2196F3&logoColor=white&style=for-the-badge" height="35" alt="portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/ashrafulx">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="mailto:ashrafulwho@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class AshrafulIslam:
-    def __init__(self):
-        self.name = "Ashraful Islam"
-        self.role = "Full-Stack Developer"
-        self.studying = "B.Sc. in Computer Science and Engineering"
-        self.languages = ["Python", "C++", "C#", "JavaScript"]
-        self.hobbies = ["Competitive Programming", "Reading books", "Chess"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something together! 🚀")
-
-me = AshrafulIslam()
-me.say_hi()
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,django,dotnet,react,tailwind,docker,git,linux,postgres,mysql" alt="tech stack" />
-</div>
-
----
-
-## 🌟 My Projects
- 
-| 🎯 Project | 📝 Description | 💻 Tech Stack | 🔗 Links | ⭐ Status |
-|------------|----------------|---------------|----------|-----------|
-| **Dokanly** | E-commerce platform with a RESTful API backend. | Django REST Framework, React | [Live](https://dokanly.example.com) • [Code](https://github.com/ashrafulX/Dokanly) | In Progress |
-| **Vangari-Mama** | Location-based recyclables marketplace with real-time price negotiation, role-based dashboards, and automated commissions. | Django, JavaScript, Tailwind CSS | [Live](https://vangari-mama.onrender.com/) • [Code](https://github.com/ashrafulX/vangari-mama) | Completed |
-| **StockPilot** | Stock management backend API. | .NET, C# | [Live](https://stockpilot.example.com) • [Code](https://github.com/ashrafulX/StockPilot-server) | In Progress |
-| **Skill Match Platform** | Connects people based on their skills and enables collaboration. | Django, PostgreSQL | [Live](https://skill-match-and-collaboration-platform.onrender.com/) • [Code](https://github.com/ashrafulX/skill-match-and-collaboration-platform) | Completed |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashrafulX&theme=default&hide_border=true" alt="GitHub streak" />
-  <br /><br />
-</div>
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Finishing **Dokanly**
-- 🧠 Getting stronger at algorithms and competitive programming
-- 🌱 Exploring more automation and full-stack projects
-- 🤝 Contributing to open source projects
-- 🤖 Learning AI/ML
-
----
-
-<div align="center">
-
-> ***Feel free to hit me up to discuss new ideas, collaborate, or just grab a cup of coffee ☕***
-
-</div>
-->
