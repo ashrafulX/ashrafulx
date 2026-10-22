@@ -2,7 +2,7 @@
 
 **Full Stack Developer · CSE Graduate**
 
-I build web applications, REST APIs, and backend systems using **Python, Django REST Framework, and React**, with a focus on clean architecture and problem-solving.
+I build web applications, REST APIs, and backend systems using **Python, Django REST Framework,FastAPI, and ReactJS**, with a focus on clean architecture and problem-solving.
 
 ### Tech Stack
 
