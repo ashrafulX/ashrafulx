@@ -6,7 +6,7 @@ I currently work as a software engineer at [**SoftZen IT**](https://softzenit.co
 
 I'm fascinated by **system design and scalable software**. I enjoy thinking beyond the code, solving complex problems, and building reliable applications that can handle high traffic.
 
-Outside of work, I follow developments in science, play chess and video games, and read books.
+Outside of work, I'm interested in following developments in science, playing chess and video games, and reading books.
 
 **Let's connect!**
 
