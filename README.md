@@ -10,6 +10,9 @@ Outside of development, I enjoy following the developments of science, playing c
 
 ### Let's connect!
 
-- **Portfolio:** [ashrafulx.vercel.app](https://ashrafulx.vercel.app)
-- **GitHub:** [@ashrafulX](https://github.com/ashrafulX)
-- **Company:** [SoftZen IT](https://softzenit.com/)
+<p>
+  <a href="mailto:ashrafulwho@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ashrafulX"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ashrafulx/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" alt="LeetCode" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ashrafulx"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" alt="LinkedIn" /></a>
+</p>
