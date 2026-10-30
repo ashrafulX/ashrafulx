@@ -2,7 +2,7 @@ Hi there! 👋
 
 I'm [**Ashraful**](https://ashrafulx.vercel.app), a full-stack developer based in Dhaka, Bangladesh.
 
-I currently work as a software engineer at [**SoftZen IT**](https://softzenit.com/), building web applications and backend systems across the stack.
+I currently work as a software engineer at [**@SoftZen IT**](https://softzenit.com/), building web applications and backend systems across the stack.
 
 I'm fascinated by **system design and scalable software**. I enjoy thinking beyond the code, solving complex problems, and building reliable applications that can handle high traffic.
 
